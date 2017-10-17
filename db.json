@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "test",
+      "password": "test"
+    }
+  ],
+
+  "picture": [
+    {
+      "id": 1,
+      "owner" : 1,
+      "link" : "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/22450061_10211421259710481_7990426207869769059_n.jpg?oh=61401071e3399ec97e31e2ed7e93363e&oe=5A6886ED",
+      "likes" : ["2","3"]
+
+    }
+  ]
+
+}
